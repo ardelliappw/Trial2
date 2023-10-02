@@ -1,0 +1,16 @@
+@* @model TodoApi.Models.QueueModel
+
+<h1>Queue Example</h1>
+
+<p>Queue Count: @ViewBag.QueueCount</p>
+
+<form method="post" asp-action="Enqueue">
+    <input type="text" name="item" placeholder="Enter an item to enqueue" />
+    <button type="submit">Enqueue</button>
+</form>
+
+<form method="post" asp-action="Dequeue">
+    <button type="submit">Dequeue</button>
+</form>
+
+<p>@ViewBag.DequeuedItem</p> *@

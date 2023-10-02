@@ -1,0 +1,26 @@
+@model TodoApi.Models.Triangle
+
+@using (Html.BeginForm("DetermineTriangleType", "Triangle", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(model => model.SideA)
+        @Html.EditorFor(model => model.SideA)
+    </div>
+    <div>
+        @Html.LabelFor(model => model.SideB)
+        @Html.EditorFor(model => model.SideB)
+    </div>
+    <div>
+        @Html.LabelFor(model => model.SideC)
+        @Html.EditorFor(model => model.SideC)
+    </div>
+
+    <div>
+    @if (ViewBag.TriangleType != null)
+    {
+        <p>Triangle Type: @ViewBag.TriangleType</p>
+    }
+    </div>
+
+    <input type="submit" value="Determine Triangle Type" />
+}

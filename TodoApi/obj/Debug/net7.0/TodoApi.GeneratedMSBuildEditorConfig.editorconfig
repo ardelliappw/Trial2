@@ -1,0 +1,37 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TodoApi
+build_property.RootNamespace = TodoApi
+build_property.ProjectDir = /Users/ardelliapp/Trial2/TodoApi/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ardelliapp/Trial2/TodoApi
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ardelliapp/Trial2/TodoApi/Views/Fibonacci/Generate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlib25hY2NpL0dlbmVyYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ardelliapp/Trial2/TodoApi/Views/Fibonacci/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlib25hY2NpL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ardelliapp/Trial2/TodoApi/Views/Queue/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVldWUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ardelliapp/Trial2/TodoApi/Views/QuickSort/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVpY2tTb3J0L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ardelliapp/Trial2/TodoApi/Views/Triangle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJpYW5nbGUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

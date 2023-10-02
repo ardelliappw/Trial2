@@ -1,0 +1,5 @@
+/Users/ardelliapp/Trial/obj/Debug/net7.0/Trial.csproj.AssemblyReference.cache
+/Users/ardelliapp/Trial/obj/Debug/net7.0/Trial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardelliapp/Trial/obj/Debug/net7.0/Trial.AssemblyInfoInputs.cache
+/Users/ardelliapp/Trial/obj/Debug/net7.0/Trial.AssemblyInfo.cs
+/Users/ardelliapp/Trial/obj/Debug/net7.0/Trial.csproj.CoreCompileInputs.cache

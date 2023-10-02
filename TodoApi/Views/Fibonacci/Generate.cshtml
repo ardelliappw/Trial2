@@ -1,0 +1,12 @@
+@model TodoApi.Models.FibonacciModel
+
+@if (Model.FibonacciSeries != null)
+{
+    <h2>Fibonacci Series</h2>
+    <ul>
+        @foreach (var number in Model.FibonacciSeries)
+        {
+            <li>@number</li>
+        }
+    </ul>
+}

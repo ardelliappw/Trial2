@@ -1,0 +1,7 @@
+@model TodoApi.Models.FibonacciModel
+
+<form asp-controller="Fibonacci" asp-action="Generate" method="post">
+    <label for="Number">Enter a number:</label>
+    <input asp-for="Number" type="number" />
+    <button type="submit">Generate</button>
+</form>
